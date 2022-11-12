@@ -27,7 +27,7 @@ height: 300px!important;
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
-    <title>PetLandia TESTE VERSSSAO NOVAa</title>
+    <title>PetLandia AAAAAA</title>
 			
    
     <!-- Main component for a primary marketing message or call to action -->
